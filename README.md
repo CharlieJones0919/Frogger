@@ -4,7 +4,7 @@ I haven't gotten around to making a premake.lua file or .bat for this project's 
 
 A x86 project, required properties: </br>
 C/C++ -> General -> Additional Include Directories = </br>
-"$(SolutionDir)\External Libraries\SFML\include" 
+"$(SolutionDir)\External Libraries\SFML\include" </br>
 Linker -> General -> Additional Library Directories = </br>
 "$(SolutionDir)\External Libraries\SFML\lib"
 
