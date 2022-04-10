@@ -1,0 +1,49 @@
+﻿  AnimatedObject.cpp
+  GroundTile.cpp
+c:\frogger\frogger\groundtile.cpp(37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  EnemyOrPlatform.cpp
+  MovingObject.cpp
+  Frog.cpp
+c:\frogger\frogger\frog.cpp(38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\frogger\frogger\frog.cpp(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\frogger\frogger\main.cpp(79): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\frogger\frogger\main.cpp(80): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\frogger\frogger\main.cpp(81): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\frogger\frogger\main.cpp(205): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  NonPlayerObject.cpp
+c:\frogger\frogger\nonplayerobject.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  SpriteObject.cpp
+  TextObject.cpp
+  Generating code
+  All 210 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Frogger.vcxproj -> C:\Frogger\Release\Frogger.exe
