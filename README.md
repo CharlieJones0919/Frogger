@@ -1,6 +1,6 @@
 # Frogger
 First year C++ Frogger recreation assignment. </br>
-I haven't gotten around to making a premake.lua file or .bat for this project's properties yet.
+I haven't gotten around to making a premake.lua file or .bat for this project's properties yet, but the built .exe is in the release folder.
 
 **A x86 project, required properties: </br>**
 **C/C++ -> General -> Additional Include Directories = </br>**
